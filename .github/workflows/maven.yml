@@ -28,7 +28,7 @@ jobs:
           distribution: 'temurin'
           cache: maven
       - name: Build with Maven
-        run: mvn clean test
+        run: mvn clean verify
       - name: Generate Allure Report
         run: mvn allure:report
       - name: Check Allure Results

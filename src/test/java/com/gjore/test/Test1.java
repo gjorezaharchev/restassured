@@ -1,10 +1,8 @@
 package com.gjore.test;
 
 import io.qameta.allure.*;
-import io.qameta.allure.severity.SeverityLevel;
 import org.testng.annotations.Test;
 
-import static io.qameta.allure.severity.SeverityLevel.*;
 
 public class Test1 {
 

@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Mar 05 08:21:53 GMT 2025","Wed Mar 05 08:21:53 GMT 2025","6","Surefire suite","Surefire test","com.gjore.test.Test1","com.gjore.test.Test1","test1","test1","This test attempts to log into the website using a login and a password. Fails if any error happens.
+
+Note that this test does not test 2-Factor Authentication."
